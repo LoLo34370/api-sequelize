@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "indiens",
+    "database": "API-sequelize",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
